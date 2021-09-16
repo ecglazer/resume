@@ -11,3 +11,9 @@
 - [UC Berkeley](https://www.berkeley.edu/)
 
 - [Columbia University](https://www.columbia.edu/)
+
+## Research Interests
+
+- mass balance of Antarctic ice sheets
+- glacial history
+- basal melt processes
